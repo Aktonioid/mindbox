@@ -1,0 +1,11 @@
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\arealib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\arealib.AssemblyInfoInputs.cache
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\arealib.AssemblyInfo.cs
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\arealib.csproj.CoreCompileInputs.cache
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\bin\Debug\net7.0\arealib.deps.json
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\bin\Debug\net7.0\arealib.dll
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\bin\Debug\net7.0\arealib.pdb
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\arealib.dll
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\refint\arealib.dll
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\arealib.pdb
+C:\Users\1dang\YandexDisk\job\mindbox\prog\lib\arealib\obj\Debug\net7.0\ref\arealib.dll
