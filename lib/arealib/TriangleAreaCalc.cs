@@ -1,5 +1,6 @@
 namespace arealib
 {
+    // класс для вычисления площади треугольника
     public class TriangleAreaCalc : IAreaCalculation
     {
         double fstSide{get;set;}
@@ -13,6 +14,7 @@ namespace arealib
             this.thrdSide = thrdSide;
         }
 
+        //вычисление площади треуголька по площади Герона
         public float getArea()
         {
             if(!((fstSide + secSide > thrdSide) & (secSide+thrdSide >fstSide) & (fstSide+secSide > thrdSide)))
