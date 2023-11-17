@@ -22,7 +22,7 @@ namespace arealib
             double p = (fstSide+secSide+thrdSide)/2;
             return (float)Math.Sqrt(p*(p-fstSide)*(p-secSide)*(p-thrdSide));
         }
-
+        // проверка на то является ли треугольник равнобедренным
         public bool isRight()
         {
             if(fstSide > secSide & fstSide > thrdSide)
