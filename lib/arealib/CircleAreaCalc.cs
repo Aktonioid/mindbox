@@ -1,5 +1,6 @@
 namespace arealib
 {
+    // класс для вычисления площади круга
     public class CircleAreaCalc : IAreaCalculation
     {
         int radius{get;set;}
@@ -9,6 +10,7 @@ namespace arealib
             this.radius = radius;
         }
 
+        //вычисление площади круга
         public float getArea()
         {
             return (float)(Math.PI*radius*radius) ;
